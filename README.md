@@ -1,3 +1,6 @@
+## Sergio Vazquez
+
+I am a GIS Analyst in the Seattle Metropolitan Area. 
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
