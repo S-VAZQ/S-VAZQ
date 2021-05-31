@@ -1,5 +1,4 @@
 ## Sergio Vazquez
-GIS Analyst/Programmer
 <!--
 **S-VAZQ/S-VAZQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
